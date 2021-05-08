@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Adarsh Sharma</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate Android Developer from India currently in my final year of BE from Thapar Institute of Enginnering and Technology</h3>
 
 - 🌱 I’m currently learning **JavaScript, ReactJS & Redux**
 
