@@ -1,49 +1,27 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ojaswi2000" alt="Ojaswi2000" /> </p><br/>
-<img src="https://user-images.githubusercontent.com/65769340/115876134-939a1b80-a463-11eb-8595-e6912628e353.gif"  width=1000px height=500px/>
+## Hi, I am Adarsh Sharma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-## Hi, I am Ojaswi Awasthi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pydevsg" alt="pydevsg" /> </p>
 
-- 🔭 I’m currently working on ReactJS, Javascript, Machine Learning 
-- 🌱 I’m currently learning Database Management Systems, OOPS and Advanced Data Structures
-- 👯 I’m looking to collaborate on projects pertaining to React Framework and Data Analysis
-- 💬 Ask me about C++, Python, MySQL
-- ⚡ Fun fact: I love reading, watching comedy series and writing poems.
+- 🧑🏻‍💻 Open to Software Engineering roles | Grad of 2021. 
 
-From not knowing how to write a "Hello World" program in C to doing projects on my own, I feel that my journey in the ever-changing and mysterious world of technology has not only been an eye-opening experience for me but something that has taught me so much about technology that I could not have imagined in my dizziest of daydreams. Ever since the moment I stepped foot in the tech-world, I started coding in languages C,C++,MySQL and then drifting away to Python and Javascript for building projects.
+- 👨🏻‍💻 Google Summer of Code 2020 & Google CodeIn 2019 Mentor for [Public Lab](https://publiclab.org/)🎈 
 
-  I have built projects on React and Firebase to understand frontend and backend, simultaneously also venturing forth in the data science field understanding how regression works to then moving deeper into Image Segmentation using Deep Learning. I have also a significant amount of knowlege of Advanced Excel techniques from using simple formulae to building charts and pivot tables.
+<!-- - 👨‍💻 All of my projects will be available at [http://pydevsg.github.io/](http://pydevsg.github.io/) -->
 
-  I have a good work-ethic and interpersonal values while working with other colleagues and team members. I have quite a few times, led people in presentations and GDs. I am also looking forward to meeting people and learning and collaborating with them on enriching experiences.
-  
-## ⚙ Languages and Tools  I use : 
-<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="50px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="50px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="50px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
-<img align="left" alt="GitHub" width="65px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<a href="https://www.npmjs.com/" target="_blank"><img align="left" alt="npm" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /></a>
-<a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"><img align="left" alt="javascript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" /></a>
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="react" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /></a>
-<a href="https://code.visualstudio.com/download" target="_blank"><img align="left" alt="VSCode" width="50px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_93981.png" /></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /></a>
-<br/><br/>
-<br/>
-## My Stats
-<p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ojaswi2000&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ojaswi2000&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
+- 🚀 My Open Source Journey from [HacktoberFest'18 to GSoC'20](https://medium.com/@jsdevsg/my-voyage-through-open-source-222176246487)
 
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ojaswi2000&layout=compact" alt="saurav-skl" />
-<br/>
+- 🔰 Beginner's guide to Open Source Contribution - https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj 
 
-## Connect With Me
-<a href="https://www.instagram.com/ojaswi_awasthi2000/" target="_blank"><img align="left" alt="Instagram" width="100px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" /></a>
-<a href="https://www.kaggle.com/ojaswiawasthi" target="_blank"><img align="left" alt="Kaggle" width="85px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" /></a>
-<a href="https://www.linkedin.com/in/ojaswi-awasthi-2a47a117b/" target="_blank"><img align="left" alt="LinkedIn" width="100px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" /></a>
-<a href="https://www.google.com/search?q=google+mail&rlz=1C1RLNS_enIN917IN917&oq=google+mail&aqs=chrome..69i57j0j0i20i263j0i433j0j0i20i263j0l4.3181j0j15&sourceid=chrome&ie=UTF-8" target="_blank"><img align="left" alt="gmail" width="85px" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" /></a>
+- ✌🏻 Apart from Coding **I love quizzing 🏆, playing 🏓 and 🎸**
 
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+- 📝 I regulary write articles on [https://medium.com/@jsdevsg/](https://medium.com/@jsdevsg/)
+
+- 💬 Ask me about **Open Source & Full Stack Development**
+
+<!-- - 📫 Reach out to me - **ghoshsudipto1129@gmail.com** -->
+
+- 🎯 Motto : **Code and contribute until the goal is reached**
+
+### Skills
+
+<p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pydevsg&show_icons=true" alt="pydevsg" />
