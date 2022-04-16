@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Associate Software Engineer at Amdocs**
 
-- 🌱 I’m currently learning **JavaScript and ReactJS**
+- 🌱 I’m currently learning **TypeScript and AngularJS**
 
 - 💬 Ask me about **Core Java, C++, Spring Boot, MySQL, Data Structures and Algorithms**
 
