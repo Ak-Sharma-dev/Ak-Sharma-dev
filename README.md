@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adarsh Sharma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working as **Associate Software Engineer at Amdocs**
+- 🔭 I’m currently working as **Software Engineer at Blue Yonder**
 
-- 🌱 I’m currently learning **TypeScript and AngularJS**
+- 🌱 I’m currently learning **Apache Kafka and Hazelcast Caching**
 
-- 💬 Ask me about **Core Java, C++, Spring Boot, MySQL, Data Structures and Algorithms**
+- 💬 Ask me about **Java, Data Structures & Algorithms, Spring Boot, MySQL, Reactive Programming**
 
 - 📫 How to reach me **adarshsharma181999@gmail.com**
 
